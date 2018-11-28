@@ -182,3 +182,5 @@ tree and install directory are different locations.
 For any question do not hesitate to contact us:  aliroot-git-admins@cern.ch
 
 Have a nice AliRoot development!
+
+2018/11/28 Add this paragraph to check git push -- Suharyo Sumowidagdo
